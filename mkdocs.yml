@@ -1,0 +1,8 @@
+site_name: My Blog
+site_description: Personal blog and documentation
+theme:
+  name: material
+  features:
+    - navigation.top
+    - search.highlight
+    - content.code.copy
