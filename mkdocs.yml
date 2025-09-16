@@ -1,60 +1,19 @@
-site_name: Jesse Hartman
-site_description: Personal blog covering coffee, podcasting, development, and photography
+site_name: Hartman.Coffee
 site_url: https://hartman.coffee/
+copyright: "© 2024 Jesse Hartman. All rights reserved."
 
 theme:
   name: material
-  features:
-    - navigation.top
-    - navigation.indexes
-    - search.highlight
-    - search.suggest
-    - search.share
-    - content.code.copy
-    - content.code.annotate
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
   palette:
     - scheme: default
-      primary: brown
-      accent: orange
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: brown
-      accent: orange
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
-plugins:
-  - search:
-      lang: en
-  - blog:
-      blog_dir: blog
-      blog_toc: true
-      post_dir: "{blog}/posts"
-      post_date_format: full
-      post_url_format: "{date}/{slug}"
-      archive_toc: true
-      categories_toc: true
-      authors_file: "{blog}/.authors.yml"
-  - tags
-
-nav:
-  - Home: index.md
-  - Blog: blog/index.md
-  - Apps: apps/index.md
-  - Tags: tags.md
+      primary: white
+      accent: black
+    - scheme: slate  
+      primary: black
+      accent: white
 
 markdown_extensions:
   - attr_list
   - md_in_html
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.tabbed:
-      alternate_style: true
