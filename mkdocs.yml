@@ -10,9 +10,15 @@ theme:
     - scheme: default
       primary: white
       accent: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
     - scheme: slate  
       primary: black
       accent: white
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 markdown_extensions:
   - attr_list

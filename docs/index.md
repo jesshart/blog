@@ -14,6 +14,14 @@
   margin: 2rem auto;
   padding: 0 1rem;
 }
+
+/* Invert logos in dark mode */
+[data-md-color-scheme="slate"] .logo-large {
+  filter: invert(1);
+}
+[data-md-color-scheme="slate"] .md-header__button.md-logo img {
+  filter: invert(1);
+}
 </style>
 
 <div class="header">
