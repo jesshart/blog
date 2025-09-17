@@ -23,6 +23,7 @@ theme:
 nav:
   - Home: index.md
   - Blog: blog/index.md
+  - Music: music.md
   - Apps:
     - Quotr: apps/quotr.md
     - Privacy Policy: apps/privacy-policy.md
