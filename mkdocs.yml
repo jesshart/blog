@@ -20,6 +20,13 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+nav:
+  - Home: index.md
+  - Blog: blog/index.md
+  - Apps:
+    - Quotr: apps/quotr.md
+    - Privacy Policy: apps/privacy-policy.md
+
 markdown_extensions:
   - attr_list
   - md_in_html
