@@ -25,8 +25,9 @@ nav:
   - Blog: blog/index.md
   - Music: music.md
   - Apps:
-    - Quotr: apps/quotr.md
-    - Privacy Policy: apps/privacy-policy.md
+    - Quotr:
+      - Overview: apps/quotr.md
+      - Privacy Policy: apps/privacy-policy.md
 
 markdown_extensions:
   - attr_list

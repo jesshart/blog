@@ -35,6 +35,3 @@ Quotr is a minimalist Apple Watch app that lets you collect, organize, and brows
 - **Categories**: Organize quotes by topic or theme
 - **Export**: Share quotes with others
 
-## Source Code
-
-The app is open source and available in my [personal repository](https://github.com/username/quotr).
