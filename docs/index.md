@@ -29,5 +29,5 @@
 </div>
 
 <div class="content">
-  <p>Welcome to my corner of the internet.</p>
+  <p>This is my personal library-of-things I have done while sipping coffee.</p>
 </div>
