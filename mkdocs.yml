@@ -24,6 +24,7 @@ nav:
   - Home: index.md
   - Blog: blog/index.md
   - Music: music.md
+  - The Coffee Podcast: podcast.md
   - Apps:
     - Quotr:
       - Overview: apps/quotr/index.md
