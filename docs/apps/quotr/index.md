@@ -29,6 +29,10 @@ Quotr is a minimalist Apple Watch app that lets you collect, organize, and brows
 3. **Reading**: Tap any quote to view it in detail with proper formatting
 4. **Managing**: Swipe left on any quote to delete it from your collection
 
+## Download
+
+[Download Quotr on the App Store](https://apps.apple.com/us/app/quotr-quote-keeper/id6751932941)
+
 ## Future Features
 
 - **Sync**: Quote synchronization across devices (coming soon)
