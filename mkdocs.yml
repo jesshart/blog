@@ -29,6 +29,9 @@ nav:
     - Quotr:
       - Overview: apps/quotr/index.md
       - Privacy Policy: apps/quotr/privacy-policy.md
+    - WatchFidgetSpinner:
+      - Overview: apps/watch-fidget-spinner/index.md
+      - Privacy Policy: apps/watch-fidget-spinner/privacy-policy.md
 
 markdown_extensions:
   - attr_list
